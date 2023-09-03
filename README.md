@@ -1,4 +1,4 @@
-# Video-Game-Industry-Analysis
+# Comprehensive Analysis of Video Game Industry
 In this project we have performed exploratory data analysis on game sales, Twitch streaming, and esports data using R, Flourish and Datawrapper.
 
 Please download the presentation file to access the analysis gist and the visualizations.
