@@ -150,3 +150,57 @@ In this project, we will be using 3 different datasets to perform a comprehensiv
   On the other hand, games like Counter-Strike: Global Offensive and League of Legends have equal shares in almost all of the factors. This finding indicates that the esports industry has a dynamic and ever-changing landscape where each game has unique factors contributing to its success, which can shift over time. Hence, adaptability and responsiveness are critical in the esports industry, and game developers and organizations must identify and respond to changing market conditions to maintain success.
 
   In conclusion, the chart provides significant insights into the esports industry. By understanding and leveraging these insights, game developers and esports organizations can position themselves better for success in this rapidly growing.
+
+## Trends in 2016 - 2020
+   In this section, we conducted a comprehensive analysis of the performance of top 5 games between the years 2016 to 2020, in terms of their total sales, watching hours on Twitch, and earnings. By comparing their rankings based on these metrics, we were able to gain valuable insights into the popularity and profitability of these games. The findings from this analysis sheds a light on the competitive landscape of the gaming industry and provide valuable information for players, developers, and investors alike.
+
+- #### Examining the Top 5 games with the highest units sold
+  The tree chart shows the top five video games in terms of total units shipped in the years they were released.
+
+   -   With 36.6 million units shipped in 2017, PLAYERUNKNOWN'S BATTLEGROUNDS had the most overall units shipped. The game's widespread appeal can be due to its distinctive battle royale gameplay.
+
+   -   The second-placed game in 2019 was Call of Duty: Modern Warfare, which shipped a total of 30.13 million copies. The game became a popular among players thanks to its realistic and contemporary graphics and timeless gameplay.
+
+   -   The 2017 release Mario Kart 8 Deluxe came in third with 24.77 million units shipped. The success of the game can be traced to its ageless appeal and universal accessibility.
+
+   -   Call of Duty: WWII, which was released in 2017, took fourth place with 19.82 million units shipped. Gamers like the game's classic World War Two backdrop and interesting storyline.
+
+   -   Lastly, Red Dead Redemption 2, which was released in 2018, came in fifth place with 19.71 million units sold. The game's engrossing plot and massive open-world gameplay set in the Wild West won it critical acclaim and a devoted following.
+
+   -   Overall, these top-performing titles illustrate the value of distinctive gameplay and compelling storylines in fostering success in the video game business and reflect the diverse interests of gamers around the world.
+
+- #### Analyzing viewer hours on Twitch for top-selling games on multiple platforms
+  From the previous plot, we found the top 5 games sold across all the platforms. In the above plot, we are trying to analyze trends based on number of hours spent by viewers on these games streamed on Twitch from 2016 - 2020. Based on the second dataset that we have used which contains data related to Twitch, we found that Mario Kart 8 Deluxe was only streamed in 2021 because of which it is not showing in the above plot.
+
+   We can clearly see that PLAYERUNKNOWN'S BATTLEGROUNDS has the highest number of watch hours among the top 5 games with more than 1.4 billion hours spent by viewers. In the previous plot, we saw that PLAYERUNKNOWN'S BATTLEGROUNDS was the highest selling game overall as well. This shows that this game has been very popular among players and viewers. We believe there might be few reasons for this popularity:
+
+      -   This game gained popularity as it was a battle royale game which could accommodate up to 100 players because of which large number of players started playing the game and watching streams in order to upskill their in game skills
+
+      -   The game was developed using Unreal Engine 4 and the in-game mechanics gave the game a real life like feeling for the players
+
+      -   Players could socialize with random players or play with friends with the help of text or voice chatting which made the game more enjoyable
+
+   We can see that Call of Duty: Modern Warfare had the second highest number of units sold/downloaded among the top 5 games, but based on the size chart above, we can see this game was 5th based on the number of watch hours on Twitch. Also, in the second plot in the story, we see that this might be due to couple of reasons being:
+
+      -   The game was released in 2019 while the other games were launched at least a year before, which can be the reason that the game was still on the rise and had low watch hours
+
+      -   People were still playing other games more than this game as when this game was launched it took a lot of time for the developers to fix different bugs and issues with the game to make it more enjoyable.
+
+   Overall, we can conclude from these two plots that even if the number of units sold/downloaded is very high for a game, that certainly doesn't mean that the game is popular on Twitch among the viewers or vice versa. We believe that even though a game might have high sales, it needs to have robust anti-cheat engine, good graphics and frequent updates from the developers so that playing experience is not hampered. Otherwise, if the playing experience is hampered for a game, people will switch to alternates for these games and it's highly likely they will start watching streams of these new games.
+
+- #### Analysis of Top Games in Esports
+  The chart shows the earnings, number of people, and tournaments for top 5 popular video games : Dota 2, Fortnite, Counter-Strike: Global Offensive, League of Legends, and Arena of Valor from 2016-2020 for Esports as the data for top 5 games isn't available/contains zero values. Here are some insights we can draw from this data:
+
+  Dota 2 has consistently been one of the top-earning games in the past five years. Its earnings have steadily increased from 2016 to 2019 before experiencing a dip in 2020. This could be due to the pandemic and the cancellation of several tournaments.
+
+  Fortnite has been a major player in the gaming industry since 2018, with earnings of $19.9 million that year. Its earnings peaked in 2019 at $78.5 million before experiencing a significant drop in 2020. This could be due to the game's declining popularity or the impact of the pandemic on the gaming industry.
+
+  Counter-Strike: Global Offensive has consistently been one of the top-earning games, with earnings increasing from 2016 to 2019 before experiencing a slight decline in 2020. The game has also consistently had a high number of players and tournaments, making it a popular esports title.
+
+  League of Legends has seen a decline in earnings since 2018, with earnings dropping from $14.7 million in 2018 to $8.7 million in 2020. However, it still remains a popular esports title with a significant number of players and tournaments.
+
+  Arena of Valor is a relatively new game compared to the others on the list, with its first data point in 2016. Its earnings have consistently increased since then, with a significant jump from 2018 to 2019. However, its number of players and tournaments are much lower compared to the other games on the list.
+
+  The number of people playing each game has varied over the years, with some games experiencing an increase and others experiencing a decline. However, all of the games on the list have a significant number of players, showing the popularity of esports as a whole.
+
+  Overall, the data shows that esports is a growing industry with several popular titles and a significant following. While some games may experience fluctuations in earnings and popularity, the industry as a whole is expected to continue to grow in the coming years.
