@@ -85,10 +85,10 @@ In this project, we will be using 3 different datasets to perform a comprehensiv
    
    The average number of viewers decreased for 2023 because the dataset that we are using has only data for the month January in 2023.
 
-  - #### Comparing number of streams and viewers from 2016 - 2023
+- #### Comparing number of streams and viewers from 2016 - 2023
     In the plot above, we have compared the total number of streams and total number of viewers from 2016 -2023. We can clearly see that the number of streams and Viewers has been increasing since 2016 steadily. Also, the numbers have taken a big jump from 2019 to 2020. It might be that because of           lockdown restrictions, more people started streaming and more people started watching these streams while being at home.
 
-  - #### Top 5 games based on hours streamed
+- #### Top 5 games based on hours streamed
     This Rshiny plot shows us the top 5 games in each year from 2016 to 2023.  We can clearly see that over the years League of Legends (LoL) has been one of the top 5 games streamed on Twitch till 2021.
     After our research, we found that there might few reasons for the decline of streaming of the game League of Legends:
 
@@ -96,7 +96,7 @@ In this project, we will be using 3 different datasets to perform a comprehensiv
 
    -   With the League of Legends having a steep learning curve, new streamers on Twitch are choosing less competitive games or games involving stories over investing their time and energy to gain experience with LoL.
  
-  - #### Top games watched on Twitch from 2016 - 2023
+- #### Top games watched on Twitch from 2016 - 2023
     In the plot, we can clearly see that Lost Ark is the game with the highest number of watch hours on Twitch and among the top 5 games watched, FIFA 23 had the lowest number of watch hours among the top 5. Based on our research we believe Lost Ark has a very high viewership because:
 
    -   During the launch of the game, there were several issues with the game which gained the interests of large number of gamers
