@@ -174,17 +174,17 @@ In this project, we will be using 3 different datasets to perform a comprehensiv
 
    We can clearly see that PLAYERUNKNOWN'S BATTLEGROUNDS has the highest number of watch hours among the top 5 games with more than 1.4 billion hours spent by viewers. In the previous plot, we saw that PLAYERUNKNOWN'S BATTLEGROUNDS was the highest selling game overall as well. This shows that this game has been very popular among players and viewers. We believe there might be few reasons for this popularity:
 
-      -   This game gained popularity as it was a battle royale game which could accommodate up to 100 players because of which large number of players started playing the game and watching streams in order to upskill their in game skills
+   -   This game gained popularity as it was a battle royale game which could accommodate up to 100 players because of which large number of players started playing the game and watching streams in order to upskill their in game skills
 
-      -   The game was developed using Unreal Engine 4 and the in-game mechanics gave the game a real life like feeling for the players
+   -   The game was developed using Unreal Engine 4 and the in-game mechanics gave the game a real life like feeling for the players
 
-      -   Players could socialize with random players or play with friends with the help of text or voice chatting which made the game more enjoyable
-
+   -   Players could socialize with random players or play with friends with the help of text or voice chatting which made the game more enjoyable
+  
    We can see that Call of Duty: Modern Warfare had the second highest number of units sold/downloaded among the top 5 games, but based on the size chart above, we can see this game was 5th based on the number of watch hours on Twitch. Also, in the second plot in the story, we see that this might be due to couple of reasons being:
 
-      -   The game was released in 2019 while the other games were launched at least a year before, which can be the reason that the game was still on the rise and had low watch hours
+   -   The game was released in 2019 while the other games were launched at least a year before, which can be the reason that the game was still on the rise and had low watch hours
 
-      -   People were still playing other games more than this game as when this game was launched it took a lot of time for the developers to fix different bugs and issues with the game to make it more enjoyable.
+   -   People were still playing other games more than this game as when this game was launched it took a lot of time for the developers to fix different bugs and issues with the game to make it more enjoyable.
 
    Overall, we can conclude from these two plots that even if the number of units sold/downloaded is very high for a game, that certainly doesn't mean that the game is popular on Twitch among the viewers or vice versa. We believe that even though a game might have high sales, it needs to have robust anti-cheat engine, good graphics and frequent updates from the developers so that playing experience is not hampered. Otherwise, if the playing experience is hampered for a game, people will switch to alternates for these games and it's highly likely they will start watching streams of these new games.
 
