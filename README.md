@@ -1,5 +1,5 @@
 # Video-Game-Industry-Analysis
-In this project we have performed exploratory data analysis on game sales, Twitch streaming, and esports data using R, Flourish and Tableau.
+In this project we have performed exploratory data analysis on game sales, Twitch streaming, and esports data using R, Flourish and Datawrapper.
 
 Please download the presentation file to access the analysis gist and the visualizations.
 
@@ -71,3 +71,42 @@ In this project, we will be using 3 different datasets to perform a comprehensiv
 
    -   Pokemon Red/Green/Blue Version received the highest critic score of 9.4, suggesting it was highly regarded by game reviewers.
   
+
+## Streaming on Twitch
+- #### Analyzing the viewership on Twitch over the years
+  Twitch has been the go-to streaming platform for people for a very long time because of it's faster monetization process and simpler ways of building a community and engaging with viewers. In the plot above, we see how the number of Twitch users has changed from 2016 to 2023. It shows how the number     of users has gradually increased from 2016 to 2019 and then increased significantly in 2020 and 2021. We believe that this might be due to COVID-19 lockdown restrictions that became the reason of people staying at home. But, in 2022, the viewership dropped for the first time after a very long time. 
+  Based on our research we found that:
+   
+   -   Many streamers moved to other platforms like YouTube Live, Facebook Live, etc just for the sake of trying a different new platform
+   
+   -   Twitch banning many forms of gambling content on the platform
+   
+   -   Twitch made an announcement stating that it is reducing its 70/30 split of revenue for all streamers down to 50/50
+   
+   The average number of viewers decreased for 2023 because the dataset that we are using has only data for the month January in 2023.
+
+  - #### Comparing number of streams and viewers from 2016 - 2023
+    In the plot above, we have compared the total number of streams and total number of viewers from 2016 -2023. We can clearly see that the number of streams and Viewers has been increasing since 2016 steadily. Also, the numbers have taken a big jump from 2019 to 2020. It might be that because of           lockdown restrictions, more people started streaming and more people started watching these streams while being at home.
+
+  - #### Top 5 games based on hours streamed
+    This Rshiny plot shows us the top 5 games in each year from 2016 to 2023.  We can clearly see that over the years League of Legends (LoL) has been one of the top 5 games streamed on Twitch till 2021.
+    After our research, we found that there might few reasons for the decline of streaming of the game League of Legends:
+
+   -   With the launch of popular games like Overwatch 2, God of War: Ragnarok, Elden Ring, streamers have started shifting to these games in order to try something new
+
+   -   With the League of Legends having a steep learning curve, new streamers on Twitch are choosing less competitive games or games involving stories over investing their time and energy to gain experience with LoL.
+ 
+  - #### Top games watched on Twitch from 2016 - 2023
+    In the plot, we can clearly see that Lost Ark is the game with the highest number of watch hours on Twitch and among the top 5 games watched, FIFA 23 had the lowest number of watch hours among the top 5. Based on our research we believe Lost Ark has a very high viewership because:
+
+   -   During the launch of the game, there were several issues with the game which gained the interests of large number of gamers
+
+   -   It's a free-to-play game, so anyone can download and play it. Now because of this, more number of viewers might become interested in watching the game streams in order to upskill their in-game skillset
+
+   -   In 2022, it also won the Player's choice ARPG of the year award which might have spiked the interest level for viewers
+
+   After conducting a brief research, we found that there might be few reasons why FIFA 23 had the lowest hours watched among the top 5 games:
+
+   -   The game launched in last quarter of 2022, compared to games like Lost Ark which came out in 2019. In a short span of less than 6 months, the game has already reached such high watch hours
+
+   -   FIFA over the years has often been criticized for it's bad servers because of which players face lot of input lag while playing online. In FIFA 23, as they introduced cross-platform gameplay, this problem has sky-rocketed which may have become the reason of players and viewers losing interest in        this game
